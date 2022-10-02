@@ -1,0 +1,13 @@
+.userP{
+  
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 40px var(--green-strong);
+    position: absolute;
+    top: 8vh;
+    left: 38%;
+  
+}
+
